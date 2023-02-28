@@ -10,10 +10,10 @@ body {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 12px;
 	line-height: 1.4em; 
-	background-color: #000; 
+	background-color: rgb(119, 119, 73); 
 	background-repeat: no-repeat;
 	background-position: top center;
-	background-image: url(../images/tooplate_main.jpg)
+	background-image: url(../images/tooplate_b.jpeg)
 }
 
 a, a:link, a:visited { 
