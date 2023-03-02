@@ -6,7 +6,7 @@ http://www.tooplate.com/view/2058-metallic-slider
 body {
 	margin: 0;
 	padding: 0;
-	color: #666464;
+	color: #bababa;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 12px;
 	line-height: 1.4em; 
@@ -125,7 +125,7 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 	width: 938px;
 	height: 478px;
 	padding: 15px;
-	background: url(../images/tooplate_content.png) no-repeat
+	background: url(../images/wood.png) no-repeat
 }
 
 .kwicks {
@@ -140,7 +140,7 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 	overflow: hidden;
 	padding: 0;
 	cursor: pointer;
-	background: url(../images/slider_bg.png) no-repeat left
+	background: url(../images/straw.png) no-repeat left
 }
 
 #tooplate_content li {
@@ -151,7 +151,7 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 }
 
 .kwicks li.active {
-	background: url(../images/slider_bg_hover.png) no-repeat left
+	background: url(../images/straw_hover.png) no-repeat left
 }
 
 .kwicks li span.header {
@@ -166,9 +166,9 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 .kwicks li span.slideno {
 	position: absolute;
 	top: 15px;
-	left: 10px;
-	width: 36px;
-	height: 40px;
+	left: 3px;
+	width: 50px;
+	height: 300px;
 	background-repeat: no-repeat;
 	background-position: top;
 }
@@ -200,39 +200,39 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 }
 
 #tooplate_content #about span.slideno {
-	background-image: url(../images/two.png)	
+	background-image: url(../images/yamanashi.png)	
 }
 
 #tooplate_content #social span.slideno {
-	background-image: url(../images/three.png)	
+	background-image: url(../images/changsha.png)	
 }
 
 #tooplate_content #portfolio span.slideno { 
-	background-image: url(../images/four.png)	
+	background-image: url(../images/harbin.png)	
 }
 
 #tooplate_content #contact span.slideno {
-	background-image: url(../images/five.png)	
+	background-image: url(../images/tromso.png)	
 }
 
 #tooplate_content #home span.header {
-	background-image: url(../images/home.png)
+	background-image: url(../images/japan.png)
 }
 
 #tooplate_content #about span.header {
-	background-image: url(../images/about.png)	
+	background-image: url(../images/france.png)	
 }
 
 #tooplate_content #social span.header {
-	background-image: url(../images/changsha_main_picture.jpg)	
+	background-image: url(../images/china.png)	
 }
 
 #tooplate_content #portfolio span.header { 
-	background-image: url(../images/portfolio.png)	
+	background-image: url(../images/china.png)	
 }
 
 #tooplate_content #contact span.header {
-	background-image: url(../images/contact.png)	
+	background-image: url(../images/norway.png)	
 }
 
 #tooplate_content li .inner {
