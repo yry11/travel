@@ -216,11 +216,11 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 }
 
 #tooplate_content #home span.header {
-	background-image: url(../images/japan.png)
+	background-image: url(../images/france.png)
 }
 
 #tooplate_content #about span.header {
-	background-image: url(../images/france.png)	
+	background-image: url(../images/japan.png)	
 }
 
 #tooplate_content #social span.header {
